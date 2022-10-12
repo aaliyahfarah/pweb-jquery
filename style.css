@@ -2,11 +2,13 @@ body {
     font-family: "Inter", sans-serif;
 }
 
-.its-bg {
+legend{
+    font-weight: bold;
+}
+
+.pic-bg {
     background-image: url('background.jpg');
     background-size: cover;
-    margin-top: 10%;
-    margin-bottom: 10%;
 }
 
 * {
@@ -14,7 +16,7 @@ body {
 }
 
 .container {
-    margin-top: 10%;
+    margin-top: 2em;
 }
 
 .btn,
